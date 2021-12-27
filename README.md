@@ -1,6 +1,6 @@
-# Lucas Arias 👨‍💻
+# Lucas Arias 👨‍💻 {style=text-align:center}
 
-## Hi there 👋
+## Hi there! 👋
 
 ### I'm a Student and Solutions Consultant working in Buenos Aires, Argentina
 
