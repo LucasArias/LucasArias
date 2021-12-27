@@ -1,8 +1,8 @@
-# Lucas Arias 👨‍💻 {style=text-align:center}
+# Lucas Arias 👨‍💻
 
 ## Hi there! 👋
 
-### I'm a Student and Solutions Consultant working in Buenos Aires, Argentina
+### I'm a Systems Engineer Student and Solutions Consultant working at Mulesoft in Buenos Aires, Argentina
 
 ---
 
