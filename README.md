@@ -1,8 +1,6 @@
-###
+### Hi there 👋
 
-Hi there 👋
-
-I'm a Student and Solutions Consultant working in Buenos Aires, Argentina
+### I'm a Student and Solutions Consultant working in Buenos Aires, Argentina
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasArias&show_icons=true&theme=dark)
 
